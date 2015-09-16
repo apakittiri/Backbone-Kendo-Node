@@ -1,0 +1,2 @@
+C:\MyProjects\Backbone-Kendo-Node\Backbone-Kendo-Node\obj\Debug\Backbone-Kendo-Node.njsprojResolveAssemblyReference.cache
+C:\MyProjects\Backbone-Kendo-Node\Backbone-Kendo-Node\bin\Microsoft.NodejsTools.WebRole.dll
